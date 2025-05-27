@@ -1,4 +1,4 @@
-# deep-learning-challenge
+
 
 ## Project Overview
 This project applies a deep learning model to predict whether an organization funded by Alphabet Soup will be successful, based on historical application data.
